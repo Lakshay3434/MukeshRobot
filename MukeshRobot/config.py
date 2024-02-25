@@ -12,7 +12,7 @@ class Config(object):
     SUPPORT_CHAT = "Devine_Support"
     START_IMG = "https://graph.org/file/ab6e5b8f40192031e68d7.jpg"
     EVENT_LOGS = ()  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
-    MONGO_DB_URI= ""
+    MONGO_DB_URI= "mongodb+srv://WAIFUGRABERBOT:WAIFUGRABERBOT@cluster0.d3razp8.mongodb.net/?retryWrites=true&w=majority"
     # RECOMMENDED
     DATABASE_URL = ""  # A sql database url from elephantsql.com
     CASH_API_KEY = (
